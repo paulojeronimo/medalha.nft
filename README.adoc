@@ -1,0 +1,197 @@
+= Medalha.NFT
+:toc: left
+:toc-title: {doctitle}
+:nofooter:
+:numbered:
+:icons: font
+:imagesdir: images
+ifdef::backend-pdf[]
+:toc: macro
+:toc-title: Conteúdo
+:nofooter!:
+endif::[]
+
+:uri-ods3: https://brasil.un.org/pt-br/sdgs/3
+:uri-ironman: https://ironman.com
+:uri-medalha-nft: https://opensea.io/assets/matic/0xa9a6a3626993d487d2dbda3173cf58ca1a9d9e9f/14136417431839922512973176470508801854488264603845623958771220030038503645413
+:uri-finishers-dao: https://finishers.dao
+:uri-maratona: https://pt.wikipedia.org/wiki/Maratona
+:uri-ironman: https://ironman.com/
+:uri-soulbound: https://vitalik.ca/general/2022/01/26/soulbound.html
+
+:problema: <<problema,problema>>
+:problemas: <<problema,problemas>>
+:grande-meta: <<grande-meta,grande meta>>
+:submeta: <<submetas,submeta>>
+:submetas: <<submetas,submetas>>
+:projetos-sociais: <<projetos-sociais,projetos sociais>>
+:medalha-nft: <<medalha-nft,Medalha.NFT>>
+:familia-e-amigos: <<familia-e-amigos,família e amigos>>
+:FinishersDAO: {uri-finishers-dao}[Finishers.DAO]
+
+image:01.png[]
+
+ifdef::backend-pdf[]
+*Autor: Paulo Jerônimo -> https://paulojeronimo.com* +
+*Versão: {localdatetime}*
+
+toc::[]
+endif::[]
+
+<<<
+[[problema]]
+== Um problema
+
+Quando você decide praticar algum esporte seu principal *[blue]#MOTIVO#*
+para isso pode ser um *[blue]#PROJETO PESSOAL#* para resolver *UM
+PROBLEMA* que você está passando.
+
+Por exemplo, *[red]#VOCÊ ESTÁ SEDENTÁRIO, GORDO, E PRECISA EMAGRECER
+POIS, DO CONTRÁRIO, A OBESIDADE TE FARÁ MUITO MAL#*.
+
+Esse mal é, hoje, considerado um problema social!
+
+[WARNING]
+====
+. O {medalha-nft} alinha-se ao {uri-ods3}[item 3 dos *Objetivos de
+  Desenvolvimento Sustentável* da ONU] que é: *"Assegurar uma vida
+saudável e promover o bem-estar para todos, em todas as idades"*.
+Especificamente, ele associa-se ao item 3.d: *"Reforçar a capacidade de
+todos os países, particularmente os países em desenvolvimento, para o
+alerta precoce, redução de riscos e gerenciamento de riscos nacionais e
+globais de saúde."*
+. Exemplos de problemas relativos a obesidade: +
+  https://finisher.tech/sobrepeso-adoece.pdf
+====
+
+[[grande-meta]]
+== Uma solução: a grande meta
+
+Para solucionar o {problema}, além de procurar a ajuda de médicos e
+nutricionistas, você também se dá uma *grande meta*:
+
+. [[maratona]] *[green]#Finalizar (_cruzar a linha de chegada de_) uma
+  {uri-maratona}[Maratona] daqui a seis (6) meses#* ou, até mesmo, 
+. [[ironman]] *[green]#Finalizar um {uri-ironman}[Ironman] daqui a um
+  (1) ano#*.
+
+*Não importa o esporte que você decida fazer!*
+*O que importa é que você se desafia a ter uma grande [blue]#AÇÃO#* com
+o objetivo final de ter uma *[blue]#TRANSFORMAÇÃO#* (positiva para a
+sua Saúde e Bem-Estar).
+
+//image: de-gordo-a-magro.png[]
+
+[[submetas]]
+== Submetas
+
+Se você é consciente, você sabe que não pode pular etapas para
+atingir a sua *grande meta* pois, se fizer isso, vai se machucar.
+Então, *você quebra essa meta gigante em menores e progressivas*.
+Por exemplo, para cumprir sua {grande-meta} de <<maratona,finalizar uma
+maratona>>, você divide essa meta em seis (6) submetas:
+*Finalizar uma PROVA DE CORRIDA*: de 5 km daqui a 30 dias;
+de 10 km daqui a 60 dias; de 15 km daqui a 75 dias;
+de 21 km daqui a 90 dias; de 33 km daqui a 150 dias;
+*Finalizar uma <<maratona>> (42.195 m) daqui a 180 dias*.
+
+<<<
+[[medalhas]]
+== Suas medalhas, "suas" recompensas
+
+Toda vez que você atinge uma suas metas, participando de uma prova
+esportiva, você recebe sua *[blue]#RECOMPENSA#*: uma *MEDALHA*.
+Ela representa o seu sacrifício, sua determinanação e sua persistência
+em sua *TRANSFORMAÇÃO*.
+
+Você comemora cada recompensa com o seu grito de vitória!
+
+Você vê sua sua medalha e sabe que ela só *parecer ser igual* a de
+todos.
+Mas, ela é única, exclusiva e intransferível!
+
+[NOTE]
+.Em termos técnicos ...
+====
+. Uma medalha é um *_{uri-soulbound}[soulbound NFT]_*.
+====
+
+[[a-medalha-nao-e-sua]]
+== "Sua medalha" é uma conquista coletiva!
+
+Sua {familia-e-amigos} sabem do esforço que você teve para consquistar a
+medalha que gerou a sua *TRANSFORMAÇÃO*.
+
+Cada vez que você ganha uma medalha você se lembra do quanto essas
+pessoas foram importantes para que vocẽ recebesse sua recompensa.
+Sem elas possivelmente você não teria chegado onde chegou.
+
+[[familia-e-amigos]]
+=== Família e amigos são eternizados na sua {medalha-nft}!
+
+*O Medalha.NFT* também faz com que essas pessoas tenham seus nomes
+incluídos na "sua medalha" informando, assim, o quanto elas lhe
+incentivaram, até mesmo financeiramente, para obtê-la.
+
+[[projetos-sociais]]
+=== Projetos sociais são registrados na sua {medalha-nft} e doações são feitas para eles!
+
+Amadurecendo você percebe que, apesar de sua medalha lhe trazer uma
+vitória pessoal, junto com {familia-e-amigos}, só isso não basta!
+
+Você gostaria que o teu sentimento de vitória pudesse ser, de alguma
+forma, convertido em algo benéfico a sociedade.
+Para isso, você gostaria que a sua medalha pudesse, de alguma forma,
+ajudar em *PROJETOS SOCIAIS*.
+
+Daí você descobre que o {medalha-nft}, além de lhe fornecer uma
+medalha eternizada com o nome das pessoas que você ama, também lhe
+possibilita filtrar, dentre uma lista de *PROJETOS SOCIAIS* existentes,
+quais são os que essas pessoas podem *DOAR* um percentual do valor que
+lhe dão como incentivo pela conquista da sua medalha!
+
+<<<
+[[resumo]]
+== Resumindo
+
+[[medalha-nft]] O *Medalha.NFT* é uma _Decentralized Application
+(DApp)_, desenvolvida pela {FinishersDAO}, que possibilita que você:
+
+. *Estipule uma {grande-meta} esportiva* visando a prevenção ou a
+  eliminação de {problemas} ou melhorias na *Saúde e Bem-Estar* através
+de *AÇÃO* que gera *TRANSFORMAÇÃO*.
+. *Divida o seu PROJETO PESSOAL (uma {grande-meta}) em {submetas}
+  intermediárias*.
+. *Convide sua {familia-e-amigos} a investir em sua {grande-meta} e
+  {submetas}*.
+Cada uma de suas metas repassará parte do valor investido nelas para
+*{projetos-sociais}* que serão escolhidos por eles em uma lista
+pré-filtrada por você.
+
+[[quando-atinge-submeta]]
+Quando *você atinge uma {submeta}*:
+
+. Você recebe uma *Medalha.NFT* que contém, além dos dados da meta:
+.. A *TRANSFORMAÇÃO* que ela lhe proporcionou.
+.. Os nomes das <<familia-e-amigos,pessoas que lhe incentivaram a
+atingí-la>> bem como os percentuais de investimento de cada uma delas em
+relação ao valor total investido nessa medalha.
+.. Os {projetos-sociais} impactados ao você atingir sua meta;
+. Os percentuais investidos nos {projetos-sociais} através de sua
+  Medalha.NFT são repassados a eles.
+. Taxas de serviço são pagas.
+
+Quando *você alcança sua {grande-meta}*:
+
+. Além de receber sua {medalha-nft}, da mesma forma
+  <<quando-atinge-submeta,quando você atinge uma submeta>>, você também
+pode sacar os valores investidos em você, pelos seus amigos e
+familiares, desde a sua primeira submeta.
+.. Obviamente subtraídos, deste saque, os valores
+repassados aos valores sociais e as taxas de serviço!
+
+////
+== Referências
+
+include::refs/README.adoc[]
+////
