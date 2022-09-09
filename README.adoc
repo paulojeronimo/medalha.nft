@@ -31,9 +31,13 @@ endif::[]
 
 image:01.png[]
 
-ifdef::backend-pdf[]
 *Autor: Paulo Jerônimo -> https://paulojeronimo.com* +
-*Versão: {localdatetime}*
+*Versão: {localdatetime}* +
+ifdef::backend-html5[]
+*Versão em PDF: link:medalha.nft.pdf[]*
+endif::[]
+ifdef::backend-pdf[]
+*Versão online: https://paulojeronimo.com/medalha.nft/*
 
 toc::[]
 endif::[]
@@ -46,8 +50,8 @@ Quando você decide praticar algum esporte seu principal *[blue]#MOTIVO#*
 para isso pode ser um *[blue]#PROJETO PESSOAL#* para resolver *UM
 PROBLEMA* que você está passando.
 
-Por exemplo, *[red]#VOCÊ ESTÁ SEDENTÁRIO, GORDO, E PRECISA EMAGRECER
-POIS, DO CONTRÁRIO, A OBESIDADE TE FARÁ MUITO MAL#*.
+Por exemplo, *[red]#VOCÊ ESTÁ SEDENTÁRIO, COM SOBREPESO, E PRECISA
+EMAGRECER POIS, DO CONTRÁRIO, A OBESIDADE TE FARÁ MUITO MAL#*.
 
 Esse mal é, hoje, considerado um problema social!
 
